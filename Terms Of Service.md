@@ -17,7 +17,8 @@ The Bots are provided on an “as is” and “as available” basis. Features, 
 4. Suspension or Termination of Access
 The developer may restrict, suspend, or terminate access to one or more Bots for any user or server at any time, including if the developer believes these Terms, Discord’s policies, applicable law, or server rules have been violated. Server administrators may remove any Bot from their server at any time through Discord.
 5. Data and Privacy
-The Bots may process limited Discord-related information as needed to provide their features, such as user IDs, server IDs, channel IDs, command inputs, configuration settings, message or interaction metadata, or other information required for operation. At this time, the developer does not intentionally store user data through the Bots. If data storage is added in the future, any stored data will not be sold and will be used only for legitimate operational, maintenance, troubleshooting, security, compliance, legal, or other lawful purposes described in the Privacy Policy. Do not use the Bots to submit sensitive personal information unless the developer has expressly stated that such use is supported.
+The Bots may process limited Discord-related information as needed to provide their features and operate correctly. Depending on the Bot and its configuration, this may include user IDs, server (guild) IDs, channel IDs, guild membership information, command inputs, message content submitted to bot commands, interaction data, configuration settings, message or interaction metadata, and other information required for operation.
+At this time, the developer does not intentionally store user data through the Bots except as necessary for operation, configuration, troubleshooting, security, compliance, or maintenance of the service. If data storage practices materially change in the future, the Privacy Policy will be updated accordingly.
 6. No Warranties
 To the fullest extent permitted by law, the Bots are provided without warranties of any kind, whether express, implied, or statutory. This includes, without limitation, warranties of reliability, availability, accuracy, fitness for a particular purpose, non-infringement, and security.
 7. Limitation of Liability
@@ -46,7 +47,8 @@ If any provision of these Terms is found to be invalid, unlawful, or unenforceab
 The developer’s failure to enforce any provision of these Terms does not waive the developer’s right to enforce that provision or any other provision in the future. Any waiver must be clear, written, and limited to the specific situation described.
 19. Entire Agreement
 These Terms, together with any applicable Privacy Policy or bot-specific rules made available by the developer, constitute the entire agreement between you and the developer regarding use of the Bots and replace any prior or contemporaneous understandings about the same subject matter.
-20. AI Assistance and Good-Faith Drafting Disclosure
+Additional information regarding data collection, processing, retention, and user rights can be found in the Privacy Policy.
+21. AI Assistance and Good-Faith Drafting Disclosure
 These Terms and the related Privacy Policy may have been prepared with the assistance of artificial intelligence tools and are intended as a good-faith effort to provide clear terms and privacy practices for the Bots. They are not a substitute for advice from a qualified attorney, and the developer does not represent that they are complete, error-free, or suitable for every jurisdiction or situation.
-21. Contact
+22. Contact
 Questions about these Terms may be sent to developerbutters@gmail.com.
