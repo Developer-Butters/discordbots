@@ -1,5 +1,7 @@
 Privacy Policy
+
 Last updated: June 2026
+
 This Privacy Policy explains how the developer handles information in connection with the Discord bots covered by the Terms of Service, including Professor Chaos, Mechanic Butters, Postman Butters, and any additional bots added to the Covered Bots list in the future (collectively, the “Bots”). By using any of the Bots, you acknowledge this Privacy Policy.
 Because the Bots operate on Discord, Discord may separately collect, process, store, or disclose information under Discord’s own privacy policy and platform terms, which are independent from this Privacy Policy.
 1. Current Data Storage
